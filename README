@@ -1,0 +1,9 @@
+Reference: Cydia app by Saurik
+
+Usage:
+// show
+[LoadingView showLoadingViewAddedTo:self.view];
+
+// hide
+[LoadingView hideLoadingViewForView:self.view];
+
