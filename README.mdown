@@ -1,0 +1,13 @@
+LoadingView
+===========
+LoadingView is an Appstore/Cydia like Loading View
+
+### Usage
+* show
+[LoadingView showLoadingViewAddedTo:self.view];
+
+* hide
+[LoadingView hideLoadingViewForView:self.view];
+
+### Reference
+* [Cydia app by Saurik] (git://git.saurik.com/cydia.git)
